@@ -19,7 +19,7 @@
 
 ### 💻 Languages & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,sklearn" />
 </p>
 
 ---
