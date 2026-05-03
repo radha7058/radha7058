@@ -91,18 +91,6 @@
 </table>
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radha7058&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radha7058&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🔥 Most Used Languages
 
 <p align="center">
