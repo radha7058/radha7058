@@ -90,14 +90,6 @@
 </tr>
 </table>
 
-## 🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radha7058&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🏆 Achievements
 - 🎯 Completed Data Science Internship at Prodigy InfoTech  
 - 📊 Built ML Models & Performed EDA  
